@@ -63,7 +63,7 @@ Responses are formatted as HTTP/1.1 messages and written back to the TCP stream.
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Nikj16/http-rust.git
 cd http_server
 
 # Build the project
